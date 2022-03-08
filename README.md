@@ -7,19 +7,21 @@
   * [Usage](#usage)
   * [Licenses](#licenses)
   * [Contributing](#contributing)
+  * [Tests](#tests)
   * [Questions](#questions)
   * [Credits](#credits)
   ## Description
-  This is a way to create a respectable README file simply by answering a few questions fromthe command line.
+  A simple way to create README files from the command line.
   ## Installation
-  You will need to have a code editor, like VS Code, and you will need Node.js installed.
+  test
   ## Usage
-  1. Clone the repo from GitHub 2. Install the node package manager from the command lin using "npm init.". 3. Install the Inquirer package from the command line using "npm install inquirer."
+  test
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
   ## Contributing
-  By contacting me through github or email.
-  
+  Yes
+  ## Tests
+  test
   ## Questions
   Have questions about this project?  
   GitHub: https://github.com/utilrr  
