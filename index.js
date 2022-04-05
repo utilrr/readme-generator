@@ -163,7 +163,7 @@ const questions = [
 const writeToFile = (data) => {
   return new Promise((resolve, reject) => {
     // make a readme file and add to main folder
-    fs.writeFile("./README.md", data, (err) => {
+    fs.writeFile("./README2.md", data, (err) => {
       // if there's an error, reject the Promise and send the error to .catch() method
       if (err) {
         reject(err);

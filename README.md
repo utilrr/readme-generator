@@ -1,6 +1,8 @@
 # Mark's Dynamic README Generator
 
   [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+  [![npm Node.js](https://img.shields.io/badge/npm-Node.js-green.svg)](https://nodejs.org/en/)
+	[![npm Inquirer.js](https://img.shields.io/badge/npm-Inquirer.js-orange.svg)](https://www.npmjs.com/package/inquirer)
  
  ## Table of Contents
   * [Description](#description)
