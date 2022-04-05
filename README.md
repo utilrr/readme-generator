@@ -73,8 +73,8 @@
   Anyone interested in contributing to this project may contact me through github or email.
   (See Questions below.)
   
-  ## Demonstration
-  (LINK COMING SOON)
+  ## Photo of the README file
+  ![The resulting README file](<img width="1154" alt="Screen Shot 2022-04-05 at 12 00 53 PM" src="https://user-images.githubusercontent.com/25494815/161796852-3e34d3ce-2495-4f9f-8ad3-5243c972d93c.png">)
   
   ## Questions
   Have questions about this project?  
