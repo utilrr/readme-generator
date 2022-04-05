@@ -62,7 +62,8 @@
   If you followed tutorials, include links to those here as well.
  
   ## Demonstration
-  LINK COMING SOON (Watch this demo to see the README Generator in action.)
+  [![Demonstration of the README Generator](https://i9.ytimg.com/vi_webp/jO48YEuKD2c/mqdefault.webp?v=624c7035&sqp=CIzksZIG&rs=AOn4CLD1QJ3bOrHXgzvO6ROJ7w_WA1mxdQ)](https://youtu.be/jO48YEuKD2c)
+ 
   
   ## Licenses
   This project is covered under the MIT license. To learn more, click the license button below.
