@@ -74,7 +74,7 @@
   (See Questions below.)
   
   ## Photo of the README file
-  ![The resulting README file](<img width="1154" alt="Screen Shot 2022-04-05 at 12 00 53 PM" src="https://user-images.githubusercontent.com/25494815/161796852-3e34d3ce-2495-4f9f-8ad3-5243c972d93c.png">)
+  ![The resulting README file](https://github.com/utilrr/readme-generator/blob/main/assets/images/Screen%20Shot%202022-04-05%20at%2012.00.53%20PM.png)
   
   ## Questions
   Have questions about this project?  
